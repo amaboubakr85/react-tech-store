@@ -1,7 +1,7 @@
 import React from "react";
 import CartItem from "./CartItem";
 import {ProductConsumer} from "../../context/Context";
-import Featured from "../HomePage/Featured";
+
 
 export default function CartList() {
     return (
